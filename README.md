@@ -1,2 +1,2 @@
 # Lync_SFB_MS_Teams_shell_scripting
-All automation script has been keept over here from small to big
+All automation scripts have been keept over here which might help others in future.
